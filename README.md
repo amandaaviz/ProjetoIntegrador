@@ -36,4 +36,3 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira a
 ## Ferramentas ##
  
  <img src="https://github.com/amandaaviz/projetoIntegrador/assets/131568534/1f0e21c7-7e81-4960-9457-eca2440a58b6" height="100">
-
