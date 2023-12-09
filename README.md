@@ -35,7 +35,5 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira a
 
 ## Ferramentas ##
  
- <img src="[https://your-image-url.type](https://github.com/amandaaviz/projetoIntegrador/assets/131568534/1f0e21c7-7e81-4960-9457-eca2440a58b6)" height="100">
- ![Figma](https://github.com/amandaaviz/projetoIntegrador/assets/131568534/90e4cdb3-7b6e-4f8f-bbd3-0f32c7310558)
- ![Mysql](https://github.com/amandaaviz/projetoIntegrador/assets/131568534/56ba011f-7d1a-490d-9af6-a7eda43255bc)
+ <img src="https://github.com/amandaaviz/projetoIntegrador/assets/131568534/1f0e21c7-7e81-4960-9457-eca2440a58b6" height="100">
 
