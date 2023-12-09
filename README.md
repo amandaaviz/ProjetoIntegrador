@@ -12,6 +12,7 @@ O sistema idealizado contará com a disponibilização de vídeo aulas, textos d
 
 ## Publico-alvo ##
 Todos os públicos possíveis que desejam aprender sobre educação financeira a partir de 16 anos. No entanto, nosso principal foco é a parcela juvenil da população que não possui conhecimento ou não dispõe de recursos monetários para o acesso ao ensino de finanças.
+## Proto-personas ##
 
 ## Funcionalidades ##
 * Cadastro do usuário: criação de conta através do nome, email, data de nascimento e senha.
