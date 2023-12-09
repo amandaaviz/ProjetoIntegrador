@@ -24,10 +24,10 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira a
 * Como administrar o dinheiro que recebo
 * Prevenção de crises financeiras pessoais
 
-# Estrutura
+## Estrutura
 ![Diagrama](https://github.com/amandaaviz/projetoIntegrador/assets/131568534/c1df1999-73c6-4beb-829c-148af03e4f72)
 
-# Esqueleto
-
-# Modelo relacional
+## Esqueleto
+## Style tile
+## Modelo relacional
 ![modelo relacional](https://github.com/amandaaviz/projetoIntegrador/assets/131568534/52d6a771-3ac4-4754-a8fb-998efbb26322)
