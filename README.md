@@ -5,7 +5,7 @@ Tabela de conteúdos
 -------------------
 <!--ts-->
    * [Objetivos](#Qual-o-diferencial-da-plataforma)
-   * [Público-alvo](#Publico-alvo)
+   * [Público-alvo](#Público-alvo)
 <!--te-->
 ## Qual o diferencial da plataforma? ##
 O sistema idealizado contará com a disponibilização de vídeo aulas, textos dinâmicos explicativos, planner de gastos, calculadora de juros compostos, documentos adicionais (livros, slides etc.), links externos sobre estudos específicos, questionários entre outros. Todos os conteúdos são destinados para o aprendizado do usuário a fim de seu crescimento pessoal e financeiro.
