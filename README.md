@@ -6,6 +6,15 @@ Tabela de conteúdos
 <!--ts-->
    * [Objetivos](#Qual-o-diferencial-da-plataforma)
    * [Público-alvo](#Público-alvo)
+   * [Proto-personas](#Proto-personas)
+   * [Funcionalidadas](#Funcionalidades)
+   * [Contúdos informativos](#Conteúdos-informativos)
+   * [Estrutura](#Estrutura)
+   * [Esqueleto](#Esqueleto)
+   * [Style tile](#Style-tile)
+   * [Modelo relacional](#Modelo-relacional)
+   * [Ferramentas](#Ferramentas)
+   * [Colaboradores](#Colaboradores]
 <!--te-->
 ## Qual o diferencial da plataforma? ##
 O sistema idealizado contará com a disponibilização de vídeo aulas, textos dinâmicos explicativos, planner de gastos, calculadora de juros compostos, documentos adicionais (livros, slides etc.), links externos sobre estudos específicos, questionários entre outros. Todos os conteúdos são destinados para o aprendizado do usuário a fim de seu crescimento pessoal e financeiro.
@@ -39,5 +48,5 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira a
  <img src="https://github.com/amandaaviz/projetoIntegrador/assets/131568534/2522a0c8-2ae2-4844-b1d0-3c9382f2cfc3" height="100">
  <img src="https://github.com/amandaaviz/projetoIntegrador/assets/131568534/78b0aa4c-cdb8-49c4-9a04-1763813c89aa" height="100">
  
- 
+## Colaboradores ##
 
