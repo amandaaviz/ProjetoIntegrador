@@ -1,5 +1,8 @@
-## Projeto Integrador ##
-Siofi é um dos projetos cometidos pela turma I2263MD
+# Projeto Integrador #
+
+Sistema de Orientação Financeira(SiOFi) é 1 dos 5 projetos idealizados pela turma I2263MD, no ano de 2023, IFPA (Campus de Belém), para a conclusão apta do curso Desenvolvimento de Sistemas.
+
+
 
 
 Tabela de conteúdos 
