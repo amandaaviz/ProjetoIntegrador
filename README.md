@@ -44,7 +44,7 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira a
 
 ## Ferramentas ##
  
- <img src="https://github.com/amandaaviz/projetoIntegrador/assets/131568534/1f0e21c7-7e81-4960-9457-eca2440a58b6" height="100">
+<figure> <img src="https://github.com/amandaaviz/projetoIntegrador/assets/131568534/1f0e21c7-7e81-4960-9457-eca2440a58b6" height="100"> <figacaption>Lucidchart</figacaption></figure>
  <img src="https://github.com/amandaaviz/projetoIntegrador/assets/131568534/2522a0c8-2ae2-4844-b1d0-3c9382f2cfc3" height="100">
  <img src="https://github.com/amandaaviz/projetoIntegrador/assets/131568534/78b0aa4c-cdb8-49c4-9a04-1763813c89aa" height="100">
  
