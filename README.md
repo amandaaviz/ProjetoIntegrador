@@ -21,7 +21,11 @@ O sistema idealizado contará com a disponibilização de vídeo aulas, textos d
 
 ## Público-alvo ##
 Todos os públicos possíveis que desejam aprender sobre educação financeira a partir de 16 anos. No entanto, nosso principal foco é a parcela juvenil da população que não possui conhecimento ou não dispõe de recursos monetários para o acesso ao ensino de finanças.
+
 ## Proto-personas ##
+![1](https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/19f1e222-7ebe-4015-b17e-4971ba81ff8a)
+![3](https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/a10137cd-7a43-477a-8ec1-0ea4d61d2ac9)
+![2](https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/daaa4721-1dff-4767-9dd3-60fb65e1b2e2)
 
 ## Funcionalidades ##
 * Cadastro do usuário: criação de conta através do nome, email, data de nascimento e senha.
