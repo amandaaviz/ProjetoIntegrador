@@ -54,6 +54,6 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira a
 <a href= "https://github.com/xF4Xx"> <img src= "https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/33afa73a-6dd1-428c-bc26-8896ed36757d)" height="100"  ></a>
 <a href= "https://github.com/luizadiasousa"> <img src= "https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/2b7af6aa-6065-4535-b4c9-417e2e761c77)" height="100"  ></a>
 <a href= "https://github.com/amandaaviz"> <img src= "https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/c1550547-221e-461c-9779-9767566f5267)" height="100"  ></a>
-</br> <p>Alex </p>
+</br> <p>Alex Castro   Victor Jhon   Luiza Dias    Amanda Aviz</p>
 
 
