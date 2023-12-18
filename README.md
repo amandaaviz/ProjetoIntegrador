@@ -50,4 +50,4 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira a
  
 ## Colaboradores ##
 
-  !(https://github.com/DarkDatura2003)
+  ![](https://github.com/DarkDatura2003)
