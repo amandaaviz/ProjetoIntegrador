@@ -50,4 +50,5 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira a
  
 ## Colaboradores ##
 
- <img  src="https://github.com/DarkDatura2003">
+<a href= "https://github.com/DarkDatura2003"> <img  src="![image](https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/3bd34689-6222-44ff-8d42-261bf7aacac9)
+" height="100"></a>
