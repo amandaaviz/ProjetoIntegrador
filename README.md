@@ -1,6 +1,8 @@
-# Projeto Integrador #
+# Projeto Integrador (SiOFi) #
 
-Sistema de Orientação Financeira(SiOFi) é 1 dos 5 projetos idealizados pela turma I2263MD, no ano de 2023, IFPA (Campus de Belém), para a conclusão apta do curso Desenvolvimento de Sistemas.
+Sistema de Orientação Financeira(SiOFi) é apenas 1 dos 5 projetos idealizados pela turma I2263MD no último semestre acadêmico de 2023, IFPA (Campus de Belém),para a conclusão  do curso técnico Desenvolvimento de Sistemas. 
+
+O SiOfi, inicialmente, nasceu como uma ideia de automatizar soluções simples para desregulação financeira - pessoal e familiar - baseadas em teorias educacionais financeiras, aplicando-as competentemente em inúmeros cenários, para que o seu usuário possa medir e solucionar um desequilíbrio financeiro qualquer. As ferramentas usadas
 
 
 
@@ -20,6 +22,7 @@ Tabela de conteúdos
    * [Ferramentas](#Ferramentas)
    * [Colaboradores](#Colaboradores)
 <!--te-->
+
 ## Qual o diferencial da plataforma? ##
 O sistema idealizado contará com a disponibilização de textos dinâmicos explicativos, planner de gastos e calculadora de juros compostos para auxiliar os usuário na simulação do rendimento de investimentos. Todos os conteúdos são destinados para o aprendizado do usuário a fim de seu crescimento pessoal e financeiro.
 
