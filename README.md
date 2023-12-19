@@ -21,7 +21,7 @@ Tabela de conteúdos
    * [Colaboradores](#Colaboradores)
 <!--te-->
 ## Qual o diferencial da plataforma? ##
-O sistema idealizado contará com a disponibilização de vídeo aulas, textos dinâmicos explicativos, planner de gastos, calculadora de juros compostos, documentos adicionais (livros, slides etc.), links externos sobre estudos específicos, questionários entre outros. Todos os conteúdos são destinados para o aprendizado do usuário a fim de seu crescimento pessoal e financeiro.
+O sistema idealizado contará com a disponibilização de textos dinâmicos explicativos, planner de gastos e calculadora de juros compostos para auxiliar os usuário na simulação do rendimento de investimentos. Todos os conteúdos são destinados para o aprendizado do usuário a fim de seu crescimento pessoal e financeiro.
 
 ## Público-alvo ##
 Todos os públicos possíveis que desejam aprender sobre educação financeira a partir de 16 anos. No entanto, nosso principal foco é a parcela juvenil da população que não possui conhecimento ou não dispõe de recursos monetários para o acesso ao ensino de finanças.
