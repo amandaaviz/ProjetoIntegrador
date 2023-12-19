@@ -38,20 +38,18 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira a
 * Cadastro do usuário: criação de conta através do nome, email, data de nascimento e senha.
 * Login do usuário: o usuário poderá acessar sua conta inserindo o email cadastrado e a senha criada.
 * Calculadora de juros compostos:  funcionalidade extra que auxilia a pessoa a realizar uma simulação de quanto ela pode receber de lucro se investir em fundo imobiliários, tesouro selic, por exemplo, onde o rendimento é em juros compostos
-* Planner de lucros/gastos:  você insere o valor recebido, os gastos fixos (alimentação, energia, água, etc.), e poderá visualizar quanto você tem de saldo.
-
+* Planner de lucros/gastos:  será disponibilizado um planner financeiro personalizado para a pessoa fazer o download
 ## Conteúdos informativos
 * Como ter uma boa mentalidade de gastos
 * Como administrar o dinheiro que recebo
 * Prevenção de crises financeiras pessoais
 
 ## Estrutura
-![Diagrama](https://github.com/amandaaviz/projetoIntegrador/assets/131568534/c1df1999-73c6-4beb-829c-148af03e4f72)
+![Diagrama em branco](https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/a76d19fe-ce62-4f7d-87bf-e3b49ff4fcc5)
+
 
 ## Esqueleto
 ## Style tile
-## Modelo relacional
-![modelo relacional](https://github.com/amandaaviz/projetoIntegrador/assets/131568534/52d6a771-3ac4-4754-a8fb-998efbb26322)
 
 ## Ferramentas ##
  
