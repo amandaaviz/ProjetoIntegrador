@@ -27,7 +27,7 @@ Tabela de conteúdos
 O sistema idealizado contará com a disponibilização de textos dinâmicos explicativos, planner de gastos e calculadora de juros compostos para auxiliar os usuário na simulação do rendimento de investimentos. Todos os conteúdos são destinados para o aprendizado do usuário a fim de seu crescimento pessoal e financeiro.
 
 ## Público-alvo ##
-Todos os públicos possíveis que desejam aprender sobre educação financeira a partir de 16 anos. No entanto, nosso principal foco é a parcela juvenil da população que não possui conhecimento ou não dispõe de recursos monetários para o acesso ao ensino de finanças.
+Todos os públicos possíveis que desejam aprender sobre educação financeira. No entanto, nosso principal foco é a parcela juvenil da população que não possui conhecimento ou não dispõe de recursos monetários para o acesso ao ensino de finanças.
 
 ## Proto-personas ##
 <img src= "https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/19f1e222-7ebe-4015-b17e-4971ba81ff8a" height="400">
@@ -50,6 +50,8 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira a
 
 ## Esqueleto
 ## Style tile
+![WhatsApp Image 2023-12-20 at 14 03 16](https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/5505b414-6812-44ab-a147-f2db1b4da968)
+
 
 ## Ferramentas ##
  
@@ -58,6 +60,8 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira a
  <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/bb8aa512-5758-4125-85b4-d7160d83f5a7" height="100">
  <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/1ea19062-1fe0-46b0-aa8c-a615d103dc60" height="100">
  <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/b4d25d2f-b901-4d43-9c76-192b4db5155c" height="100">
+ <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/935cc7d8-7fb4-4bda-bf20-27da32592cf0" height="100">
+
 
 
 
