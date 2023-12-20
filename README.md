@@ -61,6 +61,7 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira. 
  <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/1ea19062-1fe0-46b0-aa8c-a615d103dc60" height="100">
  <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/b4d25d2f-b901-4d43-9c76-192b4db5155c" height="100">
  <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/935cc7d8-7fb4-4bda-bf20-27da32592cf0" height="100">
+ <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/e8adb77c-9088-4d18-a5db-cccdd3f27b7f" height="100">
 
 
 
