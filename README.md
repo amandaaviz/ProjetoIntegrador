@@ -2,9 +2,7 @@
 
 Sistema de Orientação Financeira(SiOFi) é apenas 1 dos 5 projetos idealizados pela turma I2263MD no último semestre acadêmico de 2023, IFPA (Campus de Belém),para a conclusão  do curso técnico Desenvolvimento de Sistemas. 
 
-O SiOfi, inicialmente, nasceu como uma ideia de automatizar soluções simples para desregulação financeira - pessoal e familiar - baseadas em teorias educacionais financeiras, aplicando-as competentemente em inúmeros cenários, para que o seu usuário possa medir e solucionar um desequilíbrio financeiro qualquer. As ferramentas usadas
-
-
+O SiOfi, inicialmente, nasceu como uma ideia de automatizar soluções simples para desregulação financeira - pessoal e familiar - baseadas em teorias educacionais financeiras, aplicando-as competentemente em inúmeros cenários, para que o seu usuário possa medir e solucionar um desequilíbrio financeiro qualquer.
 
 
 Tabela de conteúdos 
