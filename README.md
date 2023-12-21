@@ -47,6 +47,14 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira. 
 
 
 ## Esqueleto
+![Home Wireframe](https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/9ed3b91b-197d-4ec6-a8de-3efe7108dbd8)
+![Cadastro](https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/06de4de6-8c06-4ff2-b424-d341835a3144)
+![Home Wireframe (1)](https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/8566a29a-186b-40dc-a1f9-1db20b24d7bb)
+![Calculadora](https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/bf37fd87-9250-44f7-a64e-9ae836ac576b)
+![Planner](https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/c55126fc-d87a-4dff-b867-315a6e9656b2)
+
+
+
 ## Style tile
 ![WhatsApp Image 2023-12-20 at 14 03 16](https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/5505b414-6812-44ab-a147-f2db1b4da968)
 
