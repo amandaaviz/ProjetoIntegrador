@@ -69,7 +69,7 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira. 
  <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/935cc7d8-7fb4-4bda-bf20-27da32592cf0" height="100">
  <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/e8adb77c-9088-4d18-a5db-cccdd3f27b7f" height="100">
 
-
+https://www.figma.com/file/CtbQttoQvubzEVpAadsUx0/Wireframe-SiOFi?type=design&node-id=0%3A1&mode=design&t=AKEqRf2P7laJatfS-1
 
 
  
