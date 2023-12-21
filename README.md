@@ -18,11 +18,12 @@ Tabela de conteúdos
    * [Style tile](#Style-tile)
    * [Modelo relacional](#Modelo-relacional)
    * [Ferramentas](#Ferramentas)
+   * [Acesso ao site](#Acesso-ao-site)
    * [Colaboradores](#Colaboradores)
 <!--te-->
 
 ## Qual o diferencial da plataforma? ##
-O sistema idealizado contará com a disponibilização de textos dinâmicos explicativos, planner de gastos e calculadora de juros compostos para auxiliar os usuário na simulação do rendimento de investimentos. Todos os conteúdos são destinados para o aprendizado do usuário a fim de seu crescimento pessoal e financeiro.
+O sistema idealizado contará com a disponibilização de textos dinâmicos explicativos, vídeo aulas, planner de gastos e calculadora de juros compostos para auxiliar os usuário na simulação do rendimento de investimentos. Todos os conteúdos são destinados para o aprendizado do usuário a fim de seu crescimento pessoal e financeiro.
 
 ## Público-alvo ##
 Todos os públicos possíveis que desejam aprender sobre educação financeira. No entanto, nosso principal foco é a parcela juvenil da população que não possui conhecimento ou não dispõe de recursos monetários para o acesso ao ensino de finanças.
@@ -52,6 +53,7 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira. 
 <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/8566a29a-186b-40dc-a1f9-1db20b24d7bb" height="400">
 <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/bf37fd87-9250-44f7-a64e-9ae836ac576b" height="400">
 <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/c55126fc-d87a-4dff-b867-315a6e9656b2" height="400">
+https://www.figma.com/file/CtbQttoQvubzEVpAadsUx0/Wireframe-SiOFi?type=design&node-id=0%3A1&mode=design&t=AKEqRf2P7laJatfS-1
 
 
 
@@ -69,10 +71,10 @@ Todos os públicos possíveis que desejam aprender sobre educação financeira. 
  <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/935cc7d8-7fb4-4bda-bf20-27da32592cf0" height="100">
  <img src="https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/e8adb77c-9088-4d18-a5db-cccdd3f27b7f" height="100">
 
-https://www.figma.com/file/CtbQttoQvubzEVpAadsUx0/Wireframe-SiOFi?type=design&node-id=0%3A1&mode=design&t=AKEqRf2P7laJatfS-1
+## Acesso ao site ##
 
+http://siofi.wuaze.com/
 
- 
 ## Colaboradores ##
 
 <a href= "https://github.com/DarkDatura2003"> <img src= "https://github.com/amandaaviz/ProjetoIntegrador/assets/131568534/3bd34689-6222-44ff-8d42-261bf7aacac9" height="100"  ></a>
