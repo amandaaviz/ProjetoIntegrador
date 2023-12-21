@@ -16,7 +16,6 @@ Tabela de conteúdos
    * [Estrutura](#Estrutura)
    * [Esqueleto](#Esqueleto)
    * [Style tile](#Style-tile)
-   * [Modelo relacional](#Modelo-relacional)
    * [Ferramentas](#Ferramentas)
    * [Acesso ao site](#Acesso-ao-site)
    * [Colaboradores](#Colaboradores)
